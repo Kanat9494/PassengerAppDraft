@@ -5,7 +5,8 @@
 
     <Grid>
         <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
-            
+            <Entry Placeholder="Введите номер маршрутки" VerticalOptions="EndAndExpand" Margin="20"/>
+            <Button Text="Найти" VerticalOptions="EndAndExpand" Margin="20"/>
         </StackLayout>
     </Grid>
 
